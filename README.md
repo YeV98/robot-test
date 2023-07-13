@@ -1,6 +1,2 @@
-# robot-test
-#### testo
-# tes
-new test
-#####test333git
+This is the test repos
 should be in the second lesson
